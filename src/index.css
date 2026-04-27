@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;500;600;700&display=swap");
+@import "tailwindcss";
+
+@theme {
+  /* Tachi palette — mirrored from extension */
+  --color-tachi-black: #000000;
+  --color-tachi-white: #ffffff;
+  --color-tachi-red: #bc0000;
+  --color-tachi-red-hover: #d40000;
+  --color-tachi-btc: #f7931a;
+  --color-tachi-border: rgba(255, 255, 255, 0.08);
+  --color-tachi-muted: rgba(255, 255, 255, 0.6);
+  --color-tachi-success: #16a34a;
+  --color-tachi-danger: #bd0000;
+
+  /* Typography */
+  --font-display: "Chakra Petch", system-ui, sans-serif;
+  --font-sans: "Chakra Petch", system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", "Fira Code", monospace;
+}
+
+html,
+body,
+#root {
+  margin: 0;
+  padding: 0;
+  background: #000;
+  color: #fff;
+  font-family: "Chakra Petch", system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  min-height: 100vh;
+}
+
+::selection {
+  background: #bc0000;
+  color: #fff;
+}
