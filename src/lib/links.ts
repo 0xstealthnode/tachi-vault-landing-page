@@ -1,6 +1,6 @@
 export const CHROME_ZIP_URL =
-  'https://drive.google.com/uc?export=download&id=19Cg9b-sOFt_TSxEKIhqOrAqZ5PwWDVV4'
+  'https://drive.google.com/uc?export=download&id=1oHqJro8Rp09yLwLft7X9jZqPp7vK8ezV'
 export const FIREFOX_ZIP_URL =
-  'https://drive.google.com/uc?export=download&id=1Yz0LCSyeNZ1b1wwG0n7oy10t41LSWnSI'
+  'https://drive.google.com/uc?export=download&id=1i0iqC3VuzIwIXbpwXK0NJqFGsLE61Kzl'
 
 export const GITHUB_URL = 'https://github.com/' // TODO: set repo URL
