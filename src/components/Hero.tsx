@@ -77,7 +77,7 @@ export function Hero() {
         </div>
 
         <p className="mt-6 font-mono text-xs text-tachi-muted">
-          v1.0.1 · Manifest v3 · Chromium &amp; Firefox
+          v1.2.0 · Manifest v3 · Chromium &amp; Firefox
         </p>
       </div>
     </section>
