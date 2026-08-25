@@ -1,6 +1,6 @@
 export const CHROME_ZIP_URL =
-  'https://drive.google.com/uc?export=download&id=1_9kQkMIre-UN8dt8zsCxoe8gkM3rxucF'
+  'https://drive.google.com/uc?export=download&id=1jjr0D7cXZv3ihKyB_LqYCVcgAau-bWE9'
 export const FIREFOX_ZIP_URL =
-  'https://drive.google.com/uc?export=download&id=1YzYM1k_5_rPmJCS2jCK2lofSQ9vT1dpA'
+  'https://drive.google.com/uc?export=download&id=1p2Azo_vCtsbBKgLlIbLm5w30fEAFDr3J'
 
 export const GITHUB_URL = 'https://github.com/'
